@@ -22,6 +22,9 @@ By using software to execute the program.
 # REQUIREMENTS
 # High Level Requirements
 ![Requirements](https://user-images.githubusercontent.com/101010265/167613447-77d484e5-90bf-4550-aa5f-26b3e6142e04.png)
+# Low Level Requirements
+![Requirement](https://user-images.githubusercontent.com/101010265/167655267-a245c612-2254-476b-a1e4-87025e9d9c71.png)
+
 
 
 
