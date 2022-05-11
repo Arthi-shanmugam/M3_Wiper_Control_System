@@ -9,8 +9,8 @@ STM32 CUBE IDE
 # HARDWARE REQUIREMENT
 STM32F407VG MICROCONTROLLER BOARD
 # ADVANTAGES
-1.Low cost 
-2.It is possible to operate manually/automatically by providing on/off switch
-3.Free from wear adjustment.
+1. Low cost 
+2. It is possible to operate manually/automatically by providing on/off switch
+3. Free from wear adjustment.
 # APPLICATION 
 Four wheeler application.
