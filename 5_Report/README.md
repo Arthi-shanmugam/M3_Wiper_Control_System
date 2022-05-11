@@ -4,7 +4,13 @@ Wiper is an essential component that used to wipe rain drops or any water from t
 # INTRODUCTION
 A windscreen wiper or windshield wiper is a device used to remove rain, snow,icw and debris from a windscreen or windshield. Almost all motor vehicles, including cars, trucks, train locomotives, watercraft with a cabin and some aircraft, are equipped withsuch wipers, which are usually a legal requirment. A wiper generally consists of a metal arm, pivoting at one end and with a long rubber blade attached to the other. The arm is powered by a motor, often an electric motor, although pneumatic power is also used in some vehicles. The speed is normally adjustable, with several continuous speeds and often one or more "intermittent" settings. Most automobiles use two synchronized radial type arms, while many commercial vehicles use one or more pantograph arms. So here we propose an automatic wiper system that automatically switches ON detecting rain and stops when rain stops. Our project brings forward this system to automate the wipersystem having no need for manual intervention.Most of cars have two wipers on the windscreen, one on the rear window and the other on each headlights.The wiper parts visible fromoutside the car are the rubber blade, the wiper arm holding the blade, a spring linkage, and parts of the wiper pivots.Existing system manually used control stalk to activate wiper and the process of pulling up wiper is difficult to be handled.The driver needs to switch on and off the control stalk and it will reduce the driver's concentration during the driving. Thus, this system is proposed to solve all these problems. The concept of this wiper system is similar with other conventional wiper, yet this system will be upgraded to an automatic control system by using a controller.Whenever the water hit a dedicated sensor that located on windscreen, it will send a signal to move on the wiper motor. Once water is not detected by sensor, the wiper will automatically stop.This will help the driver to give more concentration and reduce the car accident probability.
 # COMPONENTS
-# SOFTWARE REQUIREMENTS
+# SOFTWARE REQUIREMENT
 STM32 CUBE IDE
-# HARDWARE REQUIREMENTS
+# HARDWARE REQUIREMENT
 STM32F407VG MICROCONTROLLER BOARD
+# ADVANTAGES
+1.Low cost 
+2.It is possible to operate manually/automatically by providing on/off switch
+3.Free from wear adjustment.
+# APPLICATION 
+Four wheeler application.
