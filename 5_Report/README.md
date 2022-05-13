@@ -8,6 +8,23 @@ A windscreen wiper or windshield wiper is a device used to remove rain, snow,icw
 STM32 CUBE IDE
 # HARDWARE REQUIREMENT
 STM32F407VG MICROCONTROLLER BOARD
+# SWOT ANALYSIS
+# Strengths
+1. Reduce weight and size of the motor.
+2. No human interaction with car.
+# Weakness
+This system applied water falling on the glass only.
+# 4W's and 1 H's
+# What
+It is used to Wiper control system (WCS)
+# Where
+It can be used inside and outside of the car.
+# Who
+It is used for drivers.
+# When
+It can be implemented in all vehicles.
+# How
+By using software to execute the program.
 # ADVANTAGES
 1. Low cost 
 2. It is possible to operate manually/automatically by providing on/off switch
